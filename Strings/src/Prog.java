@@ -9,8 +9,8 @@ public class Prog  {
 	    String third = "JavaScript";
 
 	    // print strings
-	    System.out.println(first);   // print Java
-	    System.out.println(second);  // print Python
-	    System.out.println(third);   // print JavaScript
+	    System.out.println(first);  
+	    System.out.println(second);  
+	    System.out.println(third);   
 	  }
 	}
